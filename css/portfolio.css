@@ -1,0 +1,14 @@
+/* 3.3 PORTFOLIO SECTION....................................................................................... */
+.portfolio {
+    background-color: #e8e8e8;
+}
+.portfolio-content {
+    overflow: hidden;
+}
+.nav1{
+    margin-top: 50px;
+    direction: rtl;
+    float: right;
+    text-align: right;
+    
+}
